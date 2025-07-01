@@ -1,0 +1,6 @@
+git status 
+git pull 
+git add <filename>
+git restore <> 
+git revert commit_id
+git branch -b <>
