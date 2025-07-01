@@ -4,3 +4,4 @@ git add <filename>
 git restore <> 
 git revert commit_id
 git branch -b <>
+git clone repo
